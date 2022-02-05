@@ -18,7 +18,7 @@ sites:
     url: https://it.gymall.de/kunst/
     icon: https://www.gymall.de/favicon.ico
     
-    skipDeleteIssues
+
 
 status-website:
   baseUrl: /GymAll
