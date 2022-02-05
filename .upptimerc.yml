@@ -4,7 +4,7 @@ repo: GymAll
 
 sites:
   - name: Test
-    url: https://www.google.com
+    url: https://thissitedoesnotexist.koj.co/
   - name: IServ
     url: https://gymall.de/iserv/
     icon: https://www.gymall.de/favicon.ico
