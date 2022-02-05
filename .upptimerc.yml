@@ -3,14 +3,8 @@ owner: JonasSchaber
 repo: GymAll
 
 sites:
-  - name: Google
+  - name: Test
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
   - name: IServ
     url: https://gymall.de/iserv/
     icon: https://www.gymall.de/favicon.ico
