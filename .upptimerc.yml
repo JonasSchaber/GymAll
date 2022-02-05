@@ -25,6 +25,6 @@ sites:
     icon: https://www.gymall.de/favicon.ico
 
 status-website:
-  baseUrl: /GymAll-uptime
+  baseUrl: /GymAll
   name: Upptime
   
