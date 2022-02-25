@@ -23,6 +23,6 @@ sites:
 status-website:
   baseUrl: /GymAll
   name: Upptime
-  css: "body { background-color: blue }"
+  css: "body { background-color: transparent }"
   
   
