@@ -23,4 +23,5 @@ sites:
 status-website:
   baseUrl: /GymAll
   name: Upptime
+  css: "background-color: transparent;"
   
