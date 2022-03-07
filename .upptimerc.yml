@@ -24,6 +24,6 @@ status-website:
   baseUrl: /GymAll
   name: Upptime
   css: "body { background-color: transparent }"
-  favicon: https://www.gymall.de/favicon.ico
+  
   
   
