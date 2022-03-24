@@ -24,9 +24,9 @@
     "url": "https://gymall.de/iserv/",
     "icon": "https://www.gymall.de/favicon.ico",
     "slug": "i-serv",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 840,
     "timeMonth": 922,
     "timeYear": 916,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-24": 0
+    }
   },
   {
     "name": "Moodle",
@@ -87,11 +89,11 @@
     "icon": "https://www.gymall.de/favicon.ico",
     "slug": "kunstgalerie",
     "status": "up",
-    "uptime": "98.81%",
+    "uptime": "98.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.19%",
-    "uptimeYear": "98.81%",
+    "uptimeYear": "98.83%",
     "time": 6494,
     "timeDay": 5201,
     "timeWeek": 7734,
