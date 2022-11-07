@@ -22,7 +22,7 @@ sites:
 
 status-website:
   baseUrl: /GymAll
-  name: Upptime
+  name: Upptime control
   css: "body { background-color: transparent }"
   
   
