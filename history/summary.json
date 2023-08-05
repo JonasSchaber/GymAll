@@ -6,17 +6,17 @@
     "slug": "test",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 109,
     "timeDay": 285,
     "timeWeek": 138,
     "timeMonth": 138,
-    "timeYear": 113,
+    "timeYear": 114,
     "dailyMinutesDown": {
-      "2023-08-05": 0
+      "2023-08-05": 13
     }
   },
   {
