@@ -4,18 +4,20 @@
     "url": "https://www.google.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "test",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 110,
-    "timeDay": 104,
-    "timeWeek": 121,
-    "timeMonth": 115,
+    "timeDay": 203,
+    "timeWeek": 144,
+    "timeMonth": 121,
     "timeYear": 113,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-07": 0
+    }
   },
   {
     "name": "IServ",
@@ -84,12 +86,12 @@
     "uptime": "93.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "89.40%",
     "time": 4690,
     "timeDay": 3315,
     "timeWeek": 2663,
-    "timeMonth": 3264,
+    "timeMonth": 3235,
     "timeYear": 4817,
     "dailyMinutesDown": {
       "2023-08-07": 44,
