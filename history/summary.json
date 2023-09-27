@@ -6,7 +6,7 @@
     "slug": "test",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 81,
     "timeMonth": 107,
     "timeYear": 112,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-27": 0
+    }
   },
   {
     "name": "IServ",
@@ -80,13 +82,13 @@
     "icon": "https://gymnasium-allermoehe.hamburg.de/wp-content/uploads/sites/16/2018/02/cropped-GymAll-Icon-32x32.png",
     "slug": "homepage",
     "status": "up",
-    "uptime": "93.45%",
-    "uptimeDay": "97.83%",
+    "uptime": "93.46%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "89.39%",
     "time": 4700,
-    "timeDay": 2509,
+    "timeDay": 1598,
     "timeWeek": 3601,
     "timeMonth": 3099,
     "timeYear": 4724,
