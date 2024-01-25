@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 109,
-    "timeDay": 75,
-    "timeWeek": 77,
-    "timeMonth": 79,
+    "timeDay": 71,
+    "timeWeek": 76,
+    "timeMonth": 78,
     "timeYear": 109,
     "dailyMinutesDown": {}
   },
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.18%",
-    "time": 1124,
-    "timeDay": 835,
-    "timeWeek": 1028,
-    "timeMonth": 1012,
+    "time": 1123,
+    "timeDay": 990,
+    "timeWeek": 1051,
+    "timeMonth": 1011,
     "timeYear": 1144,
     "dailyMinutesDown": {
       "2023-11-30": 23,
@@ -47,8 +47,7 @@
       "2023-02-10": 1440,
       "2023-02-09": 1440,
       "2023-02-08": 1440,
-      "2023-02-07": 667,
-      "2023-01-25": 21
+      "2023-02-07": 667
     }
   },
   {
@@ -62,11 +61,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 2210,
-    "timeDay": 2047,
-    "timeWeek": 1870,
-    "timeMonth": 1928,
-    "timeYear": 2191,
+    "time": 2208,
+    "timeDay": 1637,
+    "timeWeek": 1893,
+    "timeMonth": 1926,
+    "timeYear": 2190,
     "dailyMinutesDown": {
       "2023-12-21": 19,
       "2023-12-11": 28,
@@ -77,8 +76,7 @@
       "2023-08-22": 35,
       "2023-08-18": 25,
       "2023-07-03": 58,
-      "2023-04-21": 25,
-      "2023-01-25": 35
+      "2023-04-21": 25
     }
   },
   {
@@ -87,18 +85,17 @@
     "icon": "https://gymnasium-allermoehe.hamburg.de/wp-content/uploads/sites/16/2018/02/cropped-GymAll-Icon-32x32.png",
     "slug": "homepage",
     "status": "up",
-    "uptime": "94.47%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "96.78%",
+    "uptime": "94.48%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "96.79%",
     "time": 4472,
-    "timeDay": 3383,
-    "timeWeek": 5922,
-    "timeMonth": 4145,
-    "timeYear": 4242,
+    "timeDay": 2768,
+    "timeWeek": 5878,
+    "timeMonth": 4136,
+    "timeYear": 4237,
     "dailyMinutesDown": {
-      "2024-01-24": 11,
       "2024-01-22": 17,
       "2024-01-03": 17,
       "2023-12-13": 47,
@@ -145,8 +142,7 @@
       "2023-03-05": 1440,
       "2023-03-04": 1440,
       "2023-03-03": 801,
-      "2023-03-02": 31,
-      "2023-01-25": 66
+      "2023-03-02": 31
     }
   },
   {
@@ -161,16 +157,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 2778,
-    "timeDay": 3327,
-    "timeWeek": 2399,
-    "timeMonth": 2166,
-    "timeYear": 2719,
+    "timeDay": 2928,
+    "timeWeek": 2405,
+    "timeMonth": 2209,
+    "timeYear": 2721,
     "dailyMinutesDown": {
       "2023-12-21": 18,
       "2023-10-11": 27,
       "2023-08-22": 35,
-      "2023-08-18": 25,
-      "2023-01-25": 44
+      "2023-08-18": 25
     }
   }
 ]
