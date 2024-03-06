@@ -1,7 +1,7 @@
 url: gymnasium-allermoehe.hamburg.de
-status: up
-code: 200
-responseTime: 2272
-lastUpdated: 2024-03-06T02:48:22.564Z
+status: down
+code: 500
+responseTime: 1699
+lastUpdated: 2024-03-06T11:54:41.108Z
 startTime: 2022-02-05T10:27:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
