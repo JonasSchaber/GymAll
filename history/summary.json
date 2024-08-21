@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 110,
-    "timeDay": 83,
+    "timeDay": 82,
     "timeWeek": 103,
     "timeMonth": 106,
     "timeYear": 108,
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1056,
-    "timeDay": 1263,
-    "timeWeek": 1263,
-    "timeMonth": 1143,
+    "timeDay": 776,
+    "timeWeek": 1186,
+    "timeMonth": 1139,
     "timeYear": 1049,
     "dailyMinutesDown": {
       "2024-02-22": 21,
@@ -54,19 +54,18 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 2215,
-    "timeDay": 2898,
-    "timeWeek": 2654,
-    "timeMonth": 2516,
-    "timeYear": 2251,
+    "time": 2212,
+    "timeDay": 1336,
+    "timeWeek": 2317,
+    "timeMonth": 2439,
+    "timeYear": 2249,
     "dailyMinutesDown": {
       "2023-12-21": 19,
       "2023-12-11": 28,
       "2023-11-03": 47,
       "2023-11-01": 19,
       "2023-10-18": 17,
-      "2023-10-11": 41,
-      "2023-08-22": 35
+      "2023-10-11": 41
     }
   },
   {
@@ -75,16 +74,16 @@
     "icon": "https://gymnasium-allermoehe.hamburg.de/wp-content/uploads/sites/16/2018/02/cropped-GymAll-Icon-32x32.png",
     "slug": "homepage",
     "status": "up",
-    "uptime": "95.30%",
-    "uptimeDay": "98.42%",
+    "uptime": "95.31%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "56.44%",
     "uptimeMonth": "89.55%",
     "uptimeYear": "98.80%",
-    "time": 3266,
-    "timeDay": 3065,
-    "timeWeek": 2320,
-    "timeMonth": 1979,
-    "timeYear": 3260,
+    "time": 3263,
+    "timeDay": 1410,
+    "timeWeek": 2227,
+    "timeMonth": 1976,
+    "timeYear": 3258,
     "dailyMinutesDown": {
       "2024-08-19": 23,
       "2024-08-17": 144,
@@ -148,15 +147,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 2620,
-    "timeDay": 2454,
-    "timeWeek": 3601,
-    "timeMonth": 2984,
-    "timeYear": 2484,
+    "time": 2608,
+    "timeDay": 1442,
+    "timeWeek": 2691,
+    "timeMonth": 2968,
+    "timeYear": 2481,
     "dailyMinutesDown": {
       "2023-12-21": 18,
-      "2023-10-11": 27,
-      "2023-08-22": 35
+      "2023-10-11": 27
     }
   }
 ]
