@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 107,
-    "timeDay": 92,
-    "timeWeek": 120,
+    "timeDay": 102,
+    "timeWeek": 123,
     "timeMonth": 100,
     "timeYear": 105,
     "dailyMinutesDown": {
@@ -32,10 +32,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.84%",
-    "time": 1048,
-    "timeDay": 1111,
-    "timeWeek": 1058,
-    "timeMonth": 1048,
+    "time": 1049,
+    "timeDay": 1240,
+    "timeWeek": 1119,
+    "timeMonth": 1060,
     "timeYear": 1020,
     "dailyMinutesDown": {
       "2024-11-19": 39,
@@ -60,15 +60,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 2152,
-    "timeDay": 1519,
-    "timeWeek": 1621,
-    "timeMonth": 1674,
-    "timeYear": 2071,
+    "time": 2151,
+    "timeDay": 2391,
+    "timeWeek": 1752,
+    "timeMonth": 1703,
+    "timeYear": 2074,
     "dailyMinutesDown": {
       "2024-09-02": 641,
-      "2023-12-21": 19,
-      "2023-12-11": 28
+      "2023-12-21": 19
     }
   },
   {
@@ -77,15 +76,15 @@
     "icon": "https://gymnasium-allermoehe.hamburg.de/wp-content/uploads/sites/16/2018/02/cropped-GymAll-Icon-32x32.png",
     "slug": "homepage",
     "status": "up",
-    "uptime": "95.79%",
+    "uptime": "95.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "98.82%",
-    "time": 3034,
-    "timeDay": 1966,
-    "timeWeek": 1808,
-    "timeMonth": 1894,
+    "time": 3032,
+    "timeDay": 2142,
+    "timeWeek": 1867,
+    "timeMonth": 1910,
     "timeYear": 2743,
     "dailyMinutesDown": {
       "2024-11-20": 40,
@@ -128,8 +127,7 @@
       "2024-01-22": 17,
       "2024-01-03": 17,
       "2023-12-13": 47,
-      "2023-12-12": 22,
-      "2023-12-11": 166
+      "2023-12-12": 22
     }
   },
   {
@@ -144,10 +142,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 2313,
-    "timeDay": 1234,
-    "timeWeek": 1561,
-    "timeMonth": 1547,
-    "timeYear": 2302,
+    "timeDay": 1648,
+    "timeWeek": 1526,
+    "timeMonth": 1555,
+    "timeYear": 2303,
     "dailyMinutesDown": {
       "2024-09-02": 640,
       "2023-12-21": 18
