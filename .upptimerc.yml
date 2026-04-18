@@ -17,6 +17,9 @@ sites:
   - name: Kunstgalerie
     url: https://it.gymall.de/kunst/
     icon: https://www.gymall.de/favicon.ico
+  - name: KNextcloud
+    url: https://jonas-nextcloud.duckdns.org/apps/dashboard/
+    icon: https://nextcloud.com/c/uploads/2022/03/favicon.png
     
 
 
