@@ -29,8 +29,8 @@
     "slug": "i-serv",
     "status": "up",
     "uptime": "98.48%",
-    "uptimeDay": "74.22%",
-    "uptimeWeek": "10.60%",
+    "uptimeDay": "81.11%",
+    "uptimeWeek": "11.59%",
     "uptimeMonth": "53.36%",
     "uptimeYear": "95.92%",
     "time": 1231,
@@ -204,11 +204,11 @@
     "icon": "https://nextcloud.com/c/uploads/2022/03/favicon.png",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "66.31%",
+    "uptime": "66.22%",
     "uptimeDay": "74.19%",
     "uptimeWeek": "54.42%",
     "uptimeMonth": "63.00%",
-    "uptimeYear": "66.31%",
+    "uptimeYear": "66.22%",
     "time": 3986,
     "timeDay": 6269,
     "timeWeek": 7056,
@@ -264,7 +264,7 @@
       "2026-06-03": 497,
       "2026-06-04": 658,
       "2026-06-05": 381,
-      "2026-06-06": 0
+      "2026-06-06": 99
     }
   }
 ]
