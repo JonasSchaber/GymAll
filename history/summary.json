@@ -30,7 +30,7 @@
     "status": "up",
     "uptime": "98.48%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "82.95%",
+    "uptimeWeek": "83.20%",
     "uptimeMonth": "53.36%",
     "uptimeYear": "95.92%",
     "time": 1250,
@@ -95,9 +95,9 @@
     "slug": "homepage",
     "status": "down",
     "uptime": "98.72%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "97.92%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "98.80%",
     "time": 2191,
     "timeDay": 2297,
@@ -174,7 +174,7 @@
       "2026-04-12": 49,
       "2026-04-19": 37,
       "2026-04-25": 44,
-      "2026-06-11": 5
+      "2026-06-11": 30
     }
   },
   {
@@ -205,11 +205,11 @@
     "icon": "https://nextcloud.com/c/uploads/2022/03/favicon.png",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "65.94%",
+    "uptime": "65.92%",
     "uptimeDay": "60.12%",
     "uptimeWeek": "63.52%",
     "uptimeMonth": "62.41%",
-    "uptimeYear": "65.94%",
+    "uptimeYear": "65.92%",
     "time": 3883,
     "timeDay": 1053,
     "timeWeek": 4064,
@@ -270,7 +270,7 @@
       "2026-06-08": 486,
       "2026-06-09": 553,
       "2026-06-10": 574,
-      "2026-06-11": 102
+      "2026-06-11": 127
     }
   }
 ]
