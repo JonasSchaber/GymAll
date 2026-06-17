@@ -93,7 +93,7 @@
     "icon": "https://gymnasium-allermoehe.hamburg.de/wp-content/uploads/sites/16/2018/02/cropped-GymAll-Icon-32x32.png",
     "slug": "homepage",
     "status": "up",
-    "uptime": "98.71%",
+    "uptime": "98.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.17%",
     "uptimeMonth": "99.35%",
@@ -203,17 +203,17 @@
     "url": "https://jonas-nextcloud.duckdns.org/login?redirect_url=/apps/dashboard/",
     "icon": "https://nextcloud.com/c/uploads/2022/03/favicon.png",
     "slug": "nextcloud",
-    "status": "down",
-    "uptime": "65.92%",
-    "uptimeDay": "62.39%",
-    "uptimeWeek": "65.12%",
-    "uptimeMonth": "62.74%",
-    "uptimeYear": "65.92%",
-    "time": 3702,
-    "timeDay": 606,
-    "timeWeek": 1928,
-    "timeMonth": 3837,
-    "timeYear": 3702,
+    "status": "up",
+    "uptime": "65.56%",
+    "uptimeDay": "52.39%",
+    "uptimeWeek": "64.27%",
+    "uptimeMonth": "62.45%",
+    "uptimeYear": "65.56%",
+    "time": 3651,
+    "timeDay": 568,
+    "timeWeek": 1859,
+    "timeMonth": 3835,
+    "timeYear": 3651,
     "dailyMinutesDown": {
       "2026-04-19": 343,
       "2026-04-18": 26,
@@ -275,7 +275,7 @@
       "2026-06-14": 448,
       "2026-06-15": 488,
       "2026-06-16": 542,
-      "2026-06-17": 130
+      "2026-06-17": 603
     }
   }
 ]
