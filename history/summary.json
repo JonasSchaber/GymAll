@@ -77,7 +77,7 @@
     "timeDay": 2422,
     "timeWeek": 2478,
     "timeMonth": 2603,
-    "timeYear": 2001,
+    "timeYear": 1999,
     "dailyMinutesDown": {
       "2025-08-11": 21,
       "2025-10-07": 717,
@@ -102,7 +102,7 @@
     "timeDay": 2800,
     "timeWeek": 2336,
     "timeMonth": 2335,
-    "timeYear": 2264,
+    "timeYear": 2263,
     "dailyMinutesDown": {
       "2025-07-19": 30,
       "2025-08-01": 28,
@@ -191,7 +191,7 @@
     "timeDay": 1542,
     "timeWeek": 1716,
     "timeMonth": 2004,
-    "timeYear": 1947,
+    "timeYear": 1940,
     "dailyMinutesDown": {
       "2025-10-07": 717,
       "2025-10-14": 714,
@@ -203,16 +203,16 @@
     "url": "https://jonas-nextcloud.duckdns.org/login?redirect_url=/apps/dashboard/",
     "icon": "https://nextcloud.com/c/uploads/2022/03/favicon.png",
     "slug": "nextcloud",
-    "status": "up",
-    "uptime": "65.44%",
-    "uptimeDay": "72.50%",
-    "uptimeWeek": "64.06%",
-    "uptimeMonth": "62.02%",
-    "uptimeYear": "65.44%",
+    "status": "down",
+    "uptime": "65.84%",
+    "uptimeDay": "73.47%",
+    "uptimeWeek": "64.28%",
+    "uptimeMonth": "62.42%",
+    "uptimeYear": "65.84%",
     "time": 3588,
     "timeDay": 2618,
     "timeWeek": 1987,
-    "timeMonth": 3707,
+    "timeMonth": 3802,
     "timeYear": 3588,
     "dailyMinutesDown": {
       "2026-04-19": 343,
@@ -278,7 +278,8 @@
       "2026-06-17": 653,
       "2026-06-18": 759,
       "2026-06-19": 330,
-      "2026-06-20": 385
+      "2026-06-20": 385,
+      "2026-06-21": 0
     }
   }
 ]
