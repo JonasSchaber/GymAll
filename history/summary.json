@@ -31,7 +31,7 @@
     "uptime": "98.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "69.57%",
+    "uptimeMonth": "69.79%",
     "uptimeYear": "95.92%",
     "time": 1299,
     "timeDay": 2441,
@@ -206,11 +206,11 @@
     "icon": "https://nextcloud.com/c/uploads/2022/03/favicon.png",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "66.19%",
+    "uptime": "66.13%",
     "uptimeDay": "76.04%",
     "uptimeWeek": "70.48%",
     "uptimeMonth": "62.49%",
-    "uptimeYear": "66.19%",
+    "uptimeYear": "66.13%",
     "time": 3784,
     "timeDay": 9508,
     "timeWeek": 5409,
@@ -287,7 +287,7 @@
       "2026-06-24": 580,
       "2026-06-25": 515,
       "2026-06-26": 355,
-      "2026-06-27": 0
+      "2026-06-27": 99
     }
   }
 ]
