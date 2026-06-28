@@ -31,7 +31,7 @@
     "uptime": "98.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "73.11%",
+    "uptimeMonth": "73.73%",
     "uptimeYear": "95.92%",
     "time": 1303,
     "timeDay": 3007,
@@ -205,17 +205,17 @@
     "url": "https://jonas-nextcloud.duckdns.org/login?redirect_url=/apps/dashboard/",
     "icon": "https://nextcloud.com/c/uploads/2022/03/favicon.png",
     "slug": "nextcloud",
-    "status": "down",
-    "uptime": "66.14%",
-    "uptimeDay": "67.63%",
-    "uptimeWeek": "69.64%",
+    "status": "up",
+    "uptime": "65.96%",
+    "uptimeDay": "67.65%",
+    "uptimeWeek": "68.81%",
     "uptimeMonth": "62.93%",
-    "uptimeYear": "66.14%",
-    "time": 3899,
-    "timeDay": 11952,
-    "timeWeek": 6742,
-    "timeMonth": 4269,
-    "timeYear": 3899,
+    "uptimeYear": "65.96%",
+    "time": 3881,
+    "timeDay": 7284,
+    "timeWeek": 6107,
+    "timeMonth": 4216,
+    "timeYear": 3881,
     "dailyMinutesDown": {
       "2026-04-19": 343,
       "2026-04-18": 26,
@@ -288,7 +288,7 @@
       "2026-06-25": 515,
       "2026-06-26": 355,
       "2026-06-27": 456,
-      "2026-06-28": 122
+      "2026-06-28": 394
     }
   }
 ]
