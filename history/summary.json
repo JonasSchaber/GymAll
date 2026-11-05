@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 128,
-    "timeDay": 0,
-    "timeWeek": 111,
-    "timeMonth": 94,
+    "timeDay": 61,
+    "timeWeek": 104,
+    "timeMonth": 93,
     "timeYear": 135,
     "dailyMinutesDown": {
       "2025-11-21": 20,
@@ -30,17 +30,17 @@
     "url": "https://gymall.de/iserv/",
     "icon": "https://www.gymall.de/favicon.ico",
     "slug": "i-serv",
-    "status": "down",
+    "status": "up",
     "uptime": "98.57%",
-    "uptimeDay": "73.17%",
-    "uptimeWeek": "96.07%",
-    "uptimeMonth": "99.10%",
+    "uptimeDay": "74.19%",
+    "uptimeWeek": "96.02%",
+    "uptimeMonth": "99.08%",
     "uptimeYear": "95.70%",
-    "time": 1629,
-    "timeDay": 1467,
-    "timeWeek": 1892,
+    "time": 1632,
+    "timeDay": 1761,
+    "timeWeek": 1942,
     "timeMonth": 2355,
-    "timeYear": 1746,
+    "timeYear": 1747,
     "dailyMinutesDown": {
       "2026-03-03": 112,
       "2026-03-06": 97,
@@ -67,7 +67,7 @@
       "2026-09-26": 333,
       "2026-09-30": 332,
       "2026-11-04": 386,
-      "2026-11-05": 10
+      "2026-11-05": 16
     }
   },
   {
@@ -80,7 +80,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "65.41%",
+    "uptimeYear": "65.40%",
     "time": 1993,
     "timeDay": 0,
     "timeWeek": 0,
@@ -89,7 +89,7 @@
     "dailyMinutesDown": {
       "2025-12-13": 54,
       "2026-03-19": 42,
-      "2026-11-05": 185,
+      "2026-11-05": 205,
       "2026-11-04": 1440,
       "2026-11-03": 1440,
       "2026-11-02": 1440,
@@ -228,13 +228,13 @@
     "uptime": "97.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "76.20%",
+    "uptimeMonth": "76.25%",
     "uptimeYear": "93.77%",
     "time": 2328,
-    "timeDay": 0,
-    "timeWeek": 2305,
-    "timeMonth": 2475,
-    "timeYear": 2365,
+    "timeDay": 1798,
+    "timeWeek": 2233,
+    "timeMonth": 2447,
+    "timeYear": 2363,
     "dailyMinutesDown": {
       "2025-11-07": 474,
       "2025-11-06": 392,
@@ -325,13 +325,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "65.41%",
-    "time": 1870,
+    "time": 1862,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1867,
     "dailyMinutesDown": {
-      "2026-11-05": 185,
+      "2026-11-05": 205,
       "2026-11-04": 1440,
       "2026-11-03": 1440,
       "2026-11-02": 1440,
@@ -581,7 +581,7 @@
       "2026-11-02": 549,
       "2026-11-03": 516,
       "2026-11-04": 630,
-      "2026-11-05": 185
+      "2026-11-05": 205
     }
   }
 ]
