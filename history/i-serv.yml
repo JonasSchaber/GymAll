@@ -1,7 +1,7 @@
 url: https://gymall.de/iserv/
-status: down
-code: 503
-responseTime: 286
-lastUpdated: 2026-11-22T02:49:52.036Z
+status: up
+code: 200
+responseTime: 2440
+lastUpdated: 2026-11-22T03:18:33.962Z
 startTime: 2022-02-05T10:35:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
